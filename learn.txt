@@ -1,7 +1,4 @@
 learn
 learin is a hard and tough way!
-<<<<<<< HEAD
 this is a master!
-=======
 creating a new branch of datatime
->>>>>>> feature/jira-1
